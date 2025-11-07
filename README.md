@@ -23,12 +23,10 @@
 - 🧩 Build **plugins & mods** for Minecraft using **Paper**, **Spigot**, and **Forge**
 - ⚙️ Develop **Spring Boot** backends and REST APIs
 - 🗄️ Design **database systems** with MySQL, PostgreSQL, and Redis
-- 🌐 Create **modern dashboards** and UI integrations for server data
 
 ---
 
 ### 🧠 My Focus
-> Clean code, scalable design, and performance-driven systems.
 
 I love turning complex ideas into elegant, efficient solutions — from backend architecture to immersive gameplay mechanics.
 
