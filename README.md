@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey, I'm Kassio</h1>
-<h3 align="center"> Java Developer | Minecraft Systems Engineer | Full-Stack Enthusiast</h3>
+<h3 align="center"> Java Developer
 
 ---
 
