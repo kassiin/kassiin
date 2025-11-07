@@ -8,7 +8,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=java,spring,gradle,maven,docker,redis,mysql,postgresql,sqlite" />
   <br/>
-  <b>Specialties:</b> Minecraft (Paper, Spigot, BungeeCord, Forge, Fabric) · Packets (Netty) · Async Systems · Caching (Caffeine)
 </p>
 
 #### 🎨 **Frontend & Tools**
