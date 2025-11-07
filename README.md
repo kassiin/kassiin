@@ -1,6 +1,5 @@
 <h1 align="center">👋 Hey, I'm Kassio</h1>
-<h3 align="center"> Java Developer
-
+ 
 ---
 
 ### 🚀 Tech Stack
