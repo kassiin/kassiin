@@ -1,62 +1,65 @@
-# 👨‍💻 Gabriel | Senior Backend & Game Engineer
-
-### "Crafting high-performance systems and the next level of gaming add-ons."
-
----
-
-## 🚀 Overview: The Distributed Backend Specialist
-
-Hello! I'm Gabriel, a dedicated Java Senior Engineer with **3+ years of professional experience** focused on building robust, scalable, and low-latency systems. My work bridges enterprise-level backend architecture (Spring Boot) with high-performance gaming environments (Paper/Spigot, Forge).
-
-My expertise centers around engineering solutions where **performance (TPS)** and **real-time data consistency** are non-negotiable.
+<!-- Banner -->
+<h1 align="center">Hey 👋, I'm Kassio</h1>
+<h3 align="center">Senior Java Developer | Minecraft Systems Engineer | Full-Stack Enthusiast</h3>
 
 ---
 
-## 🛠️ Core Skillset & Expertise
+### 💡 About Me
 
-| Category | Skills & Focus Areas | Highlight |
-| :--- | :--- | :--- |
-| **Java Ecosystem** | Java 17+, Spring Boot, JPA, Hibernate | Building scalable microservices and REST APIs. |
-| **High-Performance Gaming** | **Paper, Spigot, BungeeCord, Forge** | Designing **non-blocking** plugins and mods for complex game logic and distributed server networks. |
-| **Data & Persistence** | **SQL, MySQL, PostgreSQL, SQLite, Redis** | Mastery in relational database design and advanced in-memory caching solutions. |
-| **Distributed Systems** | **Redis Pub/Sub, Caffeine, Docker** | Architecting multi-layered caching systems for real-time data synchronization. |
-| **Web & Development** | Git, CI/CD, HTML, CSS, JavaScript (Node.js) | Proficient in creating decoupled frontend solutions to consume APIs. |
+I'm a passionate **Java developer** with over **3 years of professional experience**, specializing in **game development, backend systems**, and **server engineering**.  
+I love designing clean, scalable, and high-performance architectures — from **Minecraft plugins (Paper, Spigot)** and **mods (Forge, Fabric)** to **Spring Boot** APIs and **distributed systems**.
+
+My focus is always on **code quality**, **performance**, and **creating tools that feel smooth and intuitive**.
 
 ---
 
-## 🧠 Architectural Focus: The TPS Guardian
+### ⚙️ Tech Stack
 
-My most significant architectural contribution lies in preventing I/O-related latency on single-threaded environments, such as the Minecraft server loop.
+#### 🧱 **Backend & Game Development**
+- **Java (8 → 21)** · **Spring / Spring Boot**
+- **Minecraft Platforms:** Paper · Spigot · BungeeCord · Forge · Fabric  
+- **Networking & Performance:** Packets (Netty), async caching with **Caffeine**, Redis integration
 
-### Key Performance Techniques:
+#### 🗄️ **Databases**
+- **SQL** · **MySQL** · **PostgreSQL** · **SQLite**
+- ORM: **Hibernate / JPA**
+- In-memory & cache: **Redis**
 
-* **Asynchronous Processing:** Deep expertise in `CompletableFuture` to offload all network and database calls (I/O) from the main thread, ensuring **zero TPS blockage**.
-* **Cache Coherence:** Experience in implementing the **Publisher/Subscriber Pattern** using **Redis Pub/Sub** to achieve instant data synchronization across distributed microservices and game server caches (e.g., forcing Caffeine cache invalidation upon API updates).
-* **Modular Design:** Applying the **Repository Pattern** and **Delegation** to create flexible, testable, and highly maintainable components.
-
----
-
-## 💡 Featured Project Insight
-
-The **Player Statistics Dashboard** project demonstrates this mastery by creating a system where player stats are:
-
-* Generated in the game,
-* Persisted via a clean REST API (Spring Boot),
-* Instantly synchronized back to the game server,
-* And displayed beautifully on a modern React dashboard.
+#### 🌐 **Frontend & Tools**
+- **HTML5**, **CSS3**, **JavaScript**, **Node.js**
+- **React** (for dashboards & APIs)
+- **Docker** · **Git** · **RESTful APIs**
 
 ---
 
-## 📞 Let's Connect
+### 🚀 What I Build
+- 🧩 Modular Minecraft systems (custom classes, stats, HUDs, APIs)
+- ⚙️ Backend services with Spring Boot and REST APIs
+- 📊 Real-time dashboards and web integrations
+- 🧠 Optimized systems using caching, asynchronous operations, and database tuning
 
-I am always interested in discussing new challenges in backend engineering, distributed architecture, or high-performance game development.
+---
 
-[![GitHub Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet)](https://github.com/YOUR_GITHUB_USERNAME)
+### 🧠 Philosophy
+> “Clean architecture and performance aren’t opposites — they work together.”
 
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mail.svg" />][email]
+I believe that great software balances **clarity, efficiency, and maintainability**.  
+Whether I’m optimizing tick-rate performance or designing backend APIs, my goal is to **create systems that scale elegantly**.
 
-<br/>
+---
 
-[linkedin]: # (Insira o link para seu LinkedIn aqui)
-[email]: mailto:youremail@example.com (Insira seu email aqui)
+### 🌍 Connect With Me
+<p align="left">
+  <a href="https://github.com/kassiin" target="_blank"><img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</p>
+
+---
+
+### 🧩 Fun Fact
+> I turn imagination into code — literally.  
+> From complex game mechanics to beautiful player dashboards, I love blending creativity with logic.
+
+---
+
+⭐ **Always learning, always building.**
