@@ -1,19 +1,62 @@
-<h1 align="center">Hi 👋, I'm Kassio</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+# 👨‍💻 Gabriel | Senior Backend & Game Engineer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kassiin&label=Profile%20views&color=0e75b6&style=flat" alt="kassiin" /> </p>
+### "Crafting high-performance systems and the next level of gaming add-ons."
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kassiin" alt="kassiin" /></a> </p>
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## 🚀 Overview: The Distributed Backend Specialist
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+Hello! I'm Gabriel, a dedicated Java Senior Engineer with **3+ years of professional experience** focused on building robust, scalable, and low-latency systems. My work bridges enterprise-level backend architecture (Spring Boot) with high-performance gaming environments (Paper/Spigot, Forge).
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kassiin&show_icons=true&locale=en&layout=compact" alt="kassiin" /></p>
+My expertise centers around engineering solutions where **performance (TPS)** and **real-time data consistency** are non-negotiable.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kassiin&show_icons=true&locale=en" alt="kassiin" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kassiin&" alt="kassiin" /></p>
+## 🛠️ Core Skillset & Expertise
+
+| Category | Skills & Focus Areas | Highlight |
+| :--- | :--- | :--- |
+| **Java Ecosystem** | Java 17+, Spring Boot, JPA, Hibernate | Building scalable microservices and REST APIs. |
+| **High-Performance Gaming** | **Paper, Spigot, BungeeCord, Forge** | Designing **non-blocking** plugins and mods for complex game logic and distributed server networks. |
+| **Data & Persistence** | **SQL, MySQL, PostgreSQL, SQLite, Redis** | Mastery in relational database design and advanced in-memory caching solutions. |
+| **Distributed Systems** | **Redis Pub/Sub, Caffeine, Docker** | Architecting multi-layered caching systems for real-time data synchronization. |
+| **Web & Development** | Git, CI/CD, HTML, CSS, JavaScript (Node.js) | Proficient in creating decoupled frontend solutions to consume APIs. |
+
+---
+
+## 🧠 Architectural Focus: The TPS Guardian
+
+My most significant architectural contribution lies in preventing I/O-related latency on single-threaded environments, such as the Minecraft server loop.
+
+### Key Performance Techniques:
+
+* **Asynchronous Processing:** Deep expertise in `CompletableFuture` to offload all network and database calls (I/O) from the main thread, ensuring **zero TPS blockage**.
+* **Cache Coherence:** Experience in implementing the **Publisher/Subscriber Pattern** using **Redis Pub/Sub** to achieve instant data synchronization across distributed microservices and game server caches (e.g., forcing Caffeine cache invalidation upon API updates).
+* **Modular Design:** Applying the **Repository Pattern** and **Delegation** to create flexible, testable, and highly maintainable components.
+
+---
+
+## 💡 Featured Project Insight
+
+The **Player Statistics Dashboard** project demonstrates this mastery by creating a system where player stats are:
+
+* Generated in the game,
+* Persisted via a clean REST API (Spring Boot),
+* Instantly synchronized back to the game server,
+* And displayed beautifully on a modern React dashboard.
+
+---
+
+## 📞 Let's Connect
+
+I am always interested in discussing new challenges in backend engineering, distributed architecture, or high-performance game development.
+
+[![GitHub Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=blueviolet)](https://github.com/YOUR_GITHUB_USERNAME)
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/mail.svg" />][email]
+
+<br/>
+
+[linkedin]: # (Insira o link para seu LinkedIn aqui)
+[email]: mailto:youremail@example.com (Insira seu email aqui)
